@@ -1,5 +1,5 @@
 ---
-## Demo 
+## Demo  program
 
 - #### [Demo](https://develAconet.github.io/timer-bootstrap-js)-View the program demo.
 
